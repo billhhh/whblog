@@ -34,7 +34,7 @@ excerpt_separator: "\n\n"
 detach:       false
 port:         4000
 host:         127.0.0.1
-baseurl:      "" # does not include hostname
+baseurl:      /whblog      # does not include hostname
 
 # Outputting
 permalink:     date
@@ -46,9 +46,8 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /whblog
 feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
 
 #Nav config
 nav:
@@ -110,7 +109,7 @@ customLinks:
 
 #comment config
 disqus:
-  config: true
+  config: false
   id: billhhh
 
 
