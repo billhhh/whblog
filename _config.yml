@@ -34,7 +34,7 @@ excerpt_separator: "\n\n"
 detach:       false
 port:         4000
 host:         127.0.0.1
-baseurl:      /whblog      # does not include hostname
+baseurl:      "/whblog"      # does not include hostname
 
 # Outputting
 permalink:     date
@@ -66,7 +66,7 @@ nav:
 author:
     name: billhhh
     email: 371570273@qq.com
-    CSDN: http://blog.csdn.net/scythe666
+    CSDN blog: http://blog.csdn.net/scythe666
     simpleIntro: This is bill
     detailIntro:
 	  <p>本人十分酷爱英语，同时兼做口译，英文影片配音，听译和字幕制作工作，配音作品展示：http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=2575207</p>
@@ -120,8 +120,8 @@ baseurl: /whblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Bill's Home
-description: A different thinker
+title: Bill's blog
+description: A Different Thinker
 theme: kunka
 disqusname: billhhh
 
