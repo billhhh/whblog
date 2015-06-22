@@ -95,10 +95,10 @@ customLinks:
   - item:
     - text: 趣配音
       url: http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=2575207
+    - text: CSDN
+      url: http://blog.csdn.net/scythe666
     - text: Jekyll
       url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
     message: Friends
   - item:
     - text: Font Awesome
