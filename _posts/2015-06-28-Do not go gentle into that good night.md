@@ -44,7 +44,7 @@ comments: true
 >Grave men, near death, who see with blinding sight
 严肃的人,在生命尽头,用模糊的双眼看到
 
->Blind eyes could blaze like 4)meteors and be gay,
+>Blind eyes could blaze like meteors and be gay,
 失明的眼可以像流星般闪耀,欢欣雀跃,
 
 >Rage, rage against the dying of the light. 
