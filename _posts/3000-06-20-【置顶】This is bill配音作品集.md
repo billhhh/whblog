@@ -8,7 +8,7 @@ comments: true
 ###1.个人很喜欢的一个励志视频
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-03/5595e3c0a6003.jpg">
-	<source id="mp4" src="http://113.107.112.155/cdn.qupeiyin.cn/2015-07-15/1436933710468321313.mp4" type="video/mp4">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-15/1436933721844u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
