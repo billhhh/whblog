@@ -59,9 +59,9 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###6.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
+###7.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="7-Interstellar.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/7-Interstellar.png">
 	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/190/51/20150512110909480088000905_mfs.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
