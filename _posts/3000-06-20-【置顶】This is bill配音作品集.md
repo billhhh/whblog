@@ -66,5 +66,12 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
+###8.<font color="red">星际穿越2</font>
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://qn-cdn-img.mofunenglish.com/191/182/20150325183850001275003145.jpg">
+	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/35/406/20150513151914093429000603_mfs.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 ----END----
 
