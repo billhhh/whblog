@@ -24,7 +24,7 @@ comments: true
 
 ###4.NBA 2K14震撼开头
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="../resource/peiyin/4-2k14.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/4-2k14.png">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-06-14/1434290430389u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
