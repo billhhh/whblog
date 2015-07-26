@@ -19,7 +19,7 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###3.环太平洋三部曲
+###3.环太平洋三部曲（听译+配音）
 ####（1）part1
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim1.png">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-08/1436364448198u321313.mp4" type="video/mp4">
@@ -29,6 +29,12 @@ comments: true
 ####（2）part2
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim2.jpg">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-03/1435936642523u321313.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
+####（3）part3
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim3.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-14/1436847986256u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
