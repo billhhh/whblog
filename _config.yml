@@ -99,10 +99,10 @@ customLinks:
       url: http://blog.csdn.net/scythe666
     - text: 电子发烧友
       url: http://www.elecfans.com/
-    message: 友情链接
-  - item:
     - text: Tita（手机端访问）
       url: http://119.29.97.59:8080/FindShoes/homepage.jsp
+    message: 友情链接
+  - item:
     - text: 好友jkxqj个人博客
       url: http://blog.jkxqj.pw/
     - text: 好友jkxqj CSDN博客
