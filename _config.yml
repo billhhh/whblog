@@ -101,8 +101,8 @@ customLinks:
       url: http://www.elecfans.com/
     message: Friends
   - item:
-    - text: Font Awesome
-      url: http://fortawesome.github.io/Font-Awesome/
+    - text: Tita（手机端访问）
+      url: http://119.29.97.59:8080/FindShoes/homepage.jsp
     - text: Google Font
       url: http://www.google.com/fonts/
     - text: jQuery
