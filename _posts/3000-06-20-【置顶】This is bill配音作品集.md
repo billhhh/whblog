@@ -73,5 +73,12 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
+###9.<font color="red">New York [原视频地址](http://peiyinxiu.com/m/BB3EFF90B25918A1)</font>
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://pic.baike.soso.com/p/20120113/20120113094400-1776017591.jpg">
+	<source id="mp4" src="http://img1.peiyinxiu.com/2015050820285d24152a9b584cb3.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 ----END----
 
