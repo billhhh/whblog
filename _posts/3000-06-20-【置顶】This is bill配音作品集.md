@@ -19,7 +19,7 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###3.环太平洋三部曲（听译+配音）
+###3.环太平洋三部曲
 
 
 ###4.NBA 2K14震撼开头
