@@ -103,10 +103,10 @@ customLinks:
   - item:
     - text: Tita（手机端访问）
       url: http://119.29.97.59:8080/FindShoes/homepage.jsp
-    - text: Google Font
-      url: http://www.google.com/fonts/
-    - text: jQuery
-      url: http://jquery.com/
+    - text: 好友jkxqj个人博客
+      url: http://blog.jkxqj.pw/
+    - text: 好友jkxqj CSDN博客
+      url: http://blog.csdn.net/jkxqj
     message: 其他相关链接
 
 #comment config
