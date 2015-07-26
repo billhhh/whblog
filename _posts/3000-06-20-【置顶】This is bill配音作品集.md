@@ -36,5 +36,12 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
+###6.<font color="red">V字仇杀队（强烈推荐）</font>
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/6-V.png">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-04-07/1428375749775321313.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 ----END----
 
