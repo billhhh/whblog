@@ -5,7 +5,7 @@ category: 随笔
 comments: true
 ---
 
-这些是我配音的集合哦~~希望大家好好欣赏~
+这些是我配音的集合哦~~希望大家好好欣赏~~
 
 ###1.Windows10预告[原视频地址](http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=3537242)
 
