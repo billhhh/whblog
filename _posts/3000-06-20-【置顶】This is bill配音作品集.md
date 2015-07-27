@@ -5,6 +5,8 @@ category: 随笔
 comments: true
 ---
 
+这些是我配音的集合哦~~希望大家好好欣赏~
+
 ###1.Windows10预告[原视频地址](http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=3537242)
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-02-28/54f123a5c897b.jpg">
@@ -12,10 +14,10 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###2.个人很喜欢的一个励志视频
+###2.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-03/5595e3c0a6003.jpg">
-	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-15/1436933721844u321313.mp4" type="video/mp4">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/2-Interstellar.png">
+	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/190/51/20150512110909480088000905_mfs.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
@@ -59,10 +61,10 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###7.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
+###7.个人很喜欢的一个励志视频
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/7-Interstellar.png">
-	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/190/51/20150512110909480088000905_mfs.mp4" type="video/mp4">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-03/5595e3c0a6003.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-15/1436933721844u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
