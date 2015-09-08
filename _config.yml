@@ -1,7 +1,6 @@
 
 
 
-######################### theme kunka condigure ##############################################
 # Where things are
 source:       .
 destination:  ./_site
@@ -37,7 +36,7 @@ host:         127.0.0.1
 baseurl:      "/whblog"      # does not include hostname
 
 # Outputting
-permalink:     date
+permalink:     /:categories/:year/:month/:day/:title.html
 paginate_path: /page:num
 timezone:      null
 
@@ -127,5 +126,3 @@ description: A Different Thinker
 theme: kunka
 disqusname: billhhh
 
-# theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
-# those themes are all come from GitHub Pages Themes
