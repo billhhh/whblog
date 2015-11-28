@@ -16,33 +16,33 @@ comments: true
 
 ###2.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/2-Interstellar.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/2-Interstellar.png">
 	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/190/51/20150512110909480088000905_mfs.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
 ###3.环太平洋三部曲（听译+配音）
 ####（1）part1
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim1.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/3-rim1.png">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-08/1436364448198u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
 ####（2）part2
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim2.jpg">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/3-rim2.jpg">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-03/1435936642523u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
 ####（3）part3
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/3-rim3.jpg">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/3-rim3.jpg">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-14/1436847986256u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
 ###4.NBA 2K14震撼开头
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/4-2k14.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/4-2k14.png">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-06-14/1434290430389u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
@@ -56,7 +56,7 @@ comments: true
 
 ###6.<font color="red">V字仇杀队（强烈推荐）</font>
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://www.billwang.xyz/whblog/resource/peiyin/6-V.png">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://billhhh.github.io/whblog/resource/peiyin/6-V.png">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-04-07/1428375749775321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
