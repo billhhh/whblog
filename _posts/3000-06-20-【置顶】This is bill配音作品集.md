@@ -25,9 +25,7 @@ comments: true
 
 插播：以下是我的趣配音id和趣配音小组的小礼物寄来，超喜欢~~
 
-![fans](http://img.blog.csdn.net/20151210225957717)
-
-![gift](http://img.blog.csdn.net/20151210230015781)
+![这里写图片描述](http://img.blog.csdn.net/20151210231421459)
 
 ###3.环太平洋三部曲（听译+配音）
 ####（1）part1
