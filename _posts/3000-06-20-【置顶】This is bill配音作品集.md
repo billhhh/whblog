@@ -5,6 +5,8 @@ category: 随笔
 comments: true
 ---
 
+前言：我这里想特别感谢一下英语趣配音，这个软件我也算是第一批粉丝，是看着软件越做越好的，玩配音这么久给我带来了无尽的欢乐
+
 这些是我配音的集合哦~~希望大家好好欣赏~~
 
 ###1.Windows10预告[原视频地址](http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=3537242)
@@ -20,6 +22,12 @@ comments: true
 	<source id="mp4" src="http://qn-cdn-mfs.mofunenglish.com/190/51/20150512110909480088000905_mfs.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+插播：以下是我的趣配音id和趣配音小组的小礼物寄来，超喜欢~~
+
+![fans](http://img.blog.csdn.net/20151210225957717)
+
+![gift](http://img.blog.csdn.net/20151210230015781)
 
 ###3.环太平洋三部曲（听译+配音）
 ####（1）part1
