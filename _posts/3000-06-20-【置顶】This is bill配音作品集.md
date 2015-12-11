@@ -5,7 +5,9 @@ category: 随笔
 comments: true
 ---
 
-前言：我这里想特别感谢一下英语趣配音，作为第一批玩趣配音的人，趣配音我带来了无尽的欢乐
+前言：我这里想特别感谢一下英语趣配音，作为第一批玩趣配音的人，趣配音我带来了无尽的欢乐，我的趣配音ID是This is bill
+
+![这里写图片描述](http://img.blog.csdn.net/20151210231421459)
 
 这些是我配音的集合哦~~希望大家好好欣赏~~
 
@@ -23,14 +25,13 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###2.Windows10预告3
+###3.Windows10预告3
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-02-27/54f0404b8cd4d.jpg">
 	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-08-12/1439349151882u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-![这里写图片描述](http://img.blog.csdn.net/20151210231421459)
 
 ###4.环太平洋三部曲（听译+配音）
 ####（1）part1
@@ -86,17 +87,17 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###9.<font color="red">New York [原视频地址](http://peiyinxiu.com/m/BB3EFF90B25918A1)</font>
+###9.New York [原视频地址](http://peiyinxiu.com/m/BB3EFF90B25918A1)
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://pic.baike.soso.com/p/20120113/20120113094400-1776017591.jpg">
 	<source id="mp4" src="http://img1.peiyinxiu.com/2015050820285d24152a9b584cb3.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###10.<font color="red">New York [原视频地址](http://peiyinxiu.com/m/BB3EFF90B25918A1)</font>
+###10.
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://pic.baike.soso.com/p/20120113/20120113094400-1776017591.jpg">
-	<source id="mp4" src="http://img1.peiyinxiu.com/2015050820285d24152a9b584cb3.mp4" type="video/mp4">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-15/55a60eb4338b7.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-02-23/1424681793711321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
