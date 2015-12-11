@@ -5,6 +5,13 @@ category: 随笔
 comments: true
 ---
 
+###我的配音 [原视频地址](http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=1199991)
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-04-15/552ddc7c78676.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-04-16/1429198270212321313.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 >Do not go gentle into that good night, 
 不要温和地走进那个良夜, 
 
@@ -61,5 +68,3 @@ comments: true
 
 >Rage, rage against the dying of the light. 
 怒斥吧,怒斥光的消逝。
-
-http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=1199991
