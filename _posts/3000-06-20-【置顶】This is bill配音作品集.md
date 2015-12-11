@@ -5,11 +5,11 @@ category: 随笔
 comments: true
 ---
 
-前言：我这里想特别感谢一下英语趣配音，作为第一批玩趣配音的人，趣配音我带来了无尽的欢乐，我的趣配音ID是This is bill
+前言：我这里想特别感谢一下英语趣配音，作为第一批粉丝给我我带来了无尽的欢乐~~~于是整理一个大合集，哈哈，希望大家喜欢
 
 ![这里写图片描述](http://img.blog.csdn.net/20151210231421459)
 
-这些是我配音的集合哦~~希望大家好好欣赏~~
+这些是我配音的集合哦~~
 
 ###1.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
 
