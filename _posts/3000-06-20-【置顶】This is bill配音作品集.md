@@ -5,7 +5,7 @@ category: 随笔
 comments: true
 ---
 
-前言：我这里想特别感谢一下英语趣配音，作为第一批玩趣配音的人，给我带来了无尽的欢乐
+前言：我这里想特别感谢一下英语趣配音，作为第一批玩趣配音的人，趣配音我带来了无尽的欢乐
 
 这些是我配音的集合哦~~希望大家好好欣赏~~
 
@@ -23,10 +23,10 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###2.Windows10预告3[原视频地址](http://video.qupeiyin.cn/index.php?m=home&c=show&a=share&id=4873247)
+###2.Windows10预告3
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-02-27/54f0404b8cd4d.jpg">
-	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-14/1436882421344321313.mp4" type="video/mp4">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-08-12/1439349151882u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
@@ -72,10 +72,10 @@ comments: true
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-###8.个人很喜欢的一个励志视频
+###8.科比VS詹姆斯
 
-<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-03/5595e3c0a6003.jpg">
-	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-15/1436933721844u321313.mp4" type="video/mp4">
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-02-11/54dabd70e26cf.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-02-25/1424873464038321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
@@ -90,6 +90,20 @@ comments: true
 
 <video id="video" controls="controls" width="540" height="320" preload="none" poster="http://pic.baike.soso.com/p/20120113/20120113094400-1776017591.jpg">
 	<source id="mp4" src="http://img1.peiyinxiu.com/2015050820285d24152a9b584cb3.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
+###10.<font color="red">New York [原视频地址](http://peiyinxiu.com/m/BB3EFF90B25918A1)</font>
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://pic.baike.soso.com/p/20120113/20120113094400-1776017591.jpg">
+	<source id="mp4" src="http://img1.peiyinxiu.com/2015050820285d24152a9b584cb3.mp4" type="video/mp4">
+	<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
+###11.个人很喜欢的一个励志视频
+
+<video id="video" controls="controls" width="540" height="320" preload="none" poster="http://7u2nh5.com2.z0.glb.qiniucdn.com/2015-07-03/5595e3c0a6003.jpg">
+	<source id="mp4" src="http://cdn.qupeiyin.cn/2015-07-15/1436933721844u321313.mp4" type="video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
