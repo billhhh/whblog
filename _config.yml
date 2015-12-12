@@ -43,7 +43,7 @@ timezone:      null
 
 #Site config
 title: Bill Wang
-description: Just another Jekyll theme design and code by zhanxin.info.
+description: Bill's blog
 keywords: Bill Wang
 url: /whblog
 feed: /atom.xml
