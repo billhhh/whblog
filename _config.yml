@@ -51,7 +51,7 @@ feed: /atom.xml
 #Nav config
 nav:
   - text: 首页
-    url: index.html
+    url: ./
   - text: 分类目录 
     url: navigations/categories.html
   - text: 文章归档
