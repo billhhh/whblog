@@ -53,13 +53,13 @@ nav:
   - text: 首页
     url: ./
   - text: 分类目录 
-    url: navigations/categories.html
+    url: navigations/categories
   - text: 文章归档
-    url: navigations/archives.html
+    url: navigations/archives
   - text: 联系我
-    url: navigations/contact.html
+    url: navigations/contact
   - text: 友情链接
-    url: navigations/links.html
+    url: navigations/links
 
 #Author config
 author:
