@@ -36,7 +36,7 @@ host:         127.0.0.1
 baseurl:      "/whblog"      # does not include hostname
 
 # Outputting
-permalink:     /:categories/:title
+permalink:     /:date
 paginate_path: /page:num
 timezone:      null
 
@@ -77,7 +77,7 @@ author:
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
   - class: icon-rss
-    url: /navigations/atom.xml
+    url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com/315552559
   - class: icon-renren
