@@ -36,7 +36,7 @@ host:         127.0.0.1
 baseurl:      "/whblog"      # does not include hostname
 
 # Outputting
-permalink:     /:date
+permalink:     /:year/:i-month/:i-day
 paginate_path: /page:num
 timezone:      null
 
