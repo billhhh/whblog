@@ -77,7 +77,7 @@ author:
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
   - class: icon-rss
-    url: /themes/kunka/atom.xml
+    url: navigations/atom.xml
   - class: icon-weibo
     url: http://weibo.com/315552559
   - class: icon-renren
