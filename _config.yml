@@ -97,7 +97,7 @@ customLinks:
       url: http://blog.csdn.net/scythe666
     - text: 电子发烧友
       url: http://www.elecfans.com/
-    message: Friends
+    message: Links
   - item:
     - text: 高策 Blog
       url: http://gaocegege.com/
@@ -109,7 +109,7 @@ customLinks:
       url: http://blog.csdn.net/jkxqj
     - text: 魔性英国老叔叔
       url: http://www.mingfanguknow.com/
-    message: Links
+    message: Friends
 
 #comment config
 disqus:
